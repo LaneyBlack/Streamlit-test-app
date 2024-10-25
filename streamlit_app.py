@@ -21,9 +21,9 @@ import os
     # time.sleep(2)
     # st.success('Done')
 # możemy dzięki temu "ukryć" późniejsze ładowanie aplikacji
-st.write("# The German Zug Translator")
+st.write("# The German Panzer Translator")
 st.write("Please rate our app, our we will come and convince you to leave a good rating :)")
-st.image('german-tank.jpg', caption='The German Zug')
+st.image('german-tank.jpg', caption='The German Panzer')
 # Instrukcja i opis aplikacji
 st.write("### Instructions:")
 st.write("""
